@@ -1,0 +1,13 @@
+H:\visual studio projects\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.exe
+H:\visual studio projects\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.deps.json
+H:\visual studio projects\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.runtimeconfig.json
+H:\visual studio projects\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.runtimeconfig.dev.json
+H:\visual studio projects\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.dll
+H:\visual studio projects\Zmeika\bin\Debug\netcoreapp3.1\Zmeika.pdb
+H:\visual studio projects\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.csprojAssemblyReference.cache
+H:\visual studio projects\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.AssemblyInfoInputs.cache
+H:\visual studio projects\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.AssemblyInfo.cs
+H:\visual studio projects\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.csproj.CoreCompileInputs.cache
+H:\visual studio projects\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.dll
+H:\visual studio projects\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.pdb
+H:\visual studio projects\Zmeika\obj\Debug\netcoreapp3.1\Zmeika.genruntimeconfig.cache
